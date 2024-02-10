@@ -81,7 +81,6 @@ const generateTeam = (team) => {
 };
 
 // exports function to generate entire page
-// module.exports =
 const render = (team) => {
   return `
     <!DOCTYPE html>
