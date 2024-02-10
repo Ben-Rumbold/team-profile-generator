@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "An application that generates HTML files using input from a command-line interface.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.14"
+  }
+}
