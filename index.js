@@ -154,7 +154,7 @@ function promptIntern() {
       {
         type: "input",
         name: "school",
-        message: "Enter the engineers's school:",
+        message: "Enter the intern's school:",
       },
     ])
     .then((internData) => {
