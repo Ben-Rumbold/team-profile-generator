@@ -73,7 +73,7 @@ function promptUser() {
   inquirer
     .prompt([
       {
-        type: "checkbox",
+        type: "list",
         name: "choice",
         message: "Would you like to add another employee?",
         choices: [
